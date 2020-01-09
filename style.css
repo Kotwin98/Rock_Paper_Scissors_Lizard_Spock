@@ -27,3 +27,11 @@ body {
     background-color: #bc05ff;
     float: right;
 }
+
+.icon-box {
+    height: 100px;
+}
+
+.icon {
+    font-size: 80px;
+}
