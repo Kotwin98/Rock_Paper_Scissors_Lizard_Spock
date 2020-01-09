@@ -1,4 +1,29 @@
 body {
     /* Background pattern from Toptal Subtle Patterns */
     background-image: url("img/dark-honeycomb.png");
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    height: 500px;
+    width: 1000px;
+    background-color: red;
+}
+
+.icon-box {
+    height: 100%;
+    width: 200px;
+    background-color: #bc05ff;
+    float: left;
+}
+
+.icon-box2 {
+    height: 100%;
+    width: 200px;
+    background-color: #bc05ff;
+    float: right;
 }
