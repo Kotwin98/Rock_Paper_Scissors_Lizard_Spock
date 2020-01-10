@@ -52,3 +52,10 @@ body {
     top: 230px;
     left: 380px;
 }
+
+.pc-score {
+    font-size: 25px;
+    position: absolute;
+    top: 230px;
+    right: 380px;
+}
