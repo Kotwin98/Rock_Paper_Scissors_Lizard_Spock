@@ -45,3 +45,10 @@ body {
     height: 50px;
     margin-top: 400px;
 }
+
+.player-score {
+    font-size: 25px;
+    position: absolute;
+    top: 230px;
+    left: 380px;
+}
